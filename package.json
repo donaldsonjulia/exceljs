@@ -19,6 +19,7 @@
   "browser": "./dist/es5/exceljs.browser.js",
   "types": "./index.d.ts",
   "files": [
+    "lib",
     "dist",
     "LICENSE",
     "README.md",
